@@ -1,0 +1,1 @@
+Reader is expected to have an initial insights on what and why algorithm is important. This is expected to motivate you to understand and absorb algorithmic approaches with clever intuitions and a bit of excitemement.
